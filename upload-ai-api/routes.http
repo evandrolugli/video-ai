@@ -33,6 +33,6 @@ Content-Type: application/json
 {
     "videoId": "1b37fb33-1962-4428-8812-6c2076ab6243",
     "temperature": 0.5,
-    "template": "Generate a video draft: '''{}'''"
+    "prompt": "Generate a video draft: '''{}'''"
 }
 
